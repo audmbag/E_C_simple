@@ -1,0 +1,38 @@
+[
+    {
+        "question": "Comment faire un achat sur votre site ?",
+        "response": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aspernatur, sequi aperiam quae corporis enim nam reprehenderit qui, fugiat fuga et perferendis illum quos error quia.Lorem ipsum dolor sit amet consectetur, adipisicing elit."
+    },
+    {
+        "question": "Quel système de payement utilisez-vous ?",
+        "response": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aspernatur, sequi aperiam quae corporis enim nam reprehenderit qui, fugiat fuga et perferendis illum quos error quia.Lorem ipsum dolor sit amet consectetur, adipisicing elit."
+    },
+    {
+        "question": "Comment être sûr que c'est pas une arnaque ?",
+        "response": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aspernatur, sequi aperiam quae corporis enim nam reprehenderit qui, fugiat fuga et perferendis illum quos error quia.Lorem ipsum dolor sit amet consectetur, adipisicing elit."
+    },
+    {
+        "question": "Respctez-vous le delais de livraison ? ",
+        "response": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aspernatur, sequi aperiam quae corporis enim nam reprehenderit qui, fugiat fuga et perferendis illum quos error quia.Lorem ipsum dolor sit amet consectetur, adipisicing elit."
+    },
+    {
+        "question": "Combien de temps prend la livraison ? ",
+        "response": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aspernatur, sequi aperiam quae corporis enim nam reprehenderit qui, fugiat fuga et perferendis illum quos error quia.Lorem ipsum dolor sit amet consectetur, adipisicing elit."
+    },
+    {
+        "question": "Que faire si je ne reçois pas mon produit ? ",
+        "response": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aspernatur, sequi aperiam quae corporis enim nam reprehenderit qui, fugiat fuga et perferendis illum quos error quia.Lorem ipsum dolor sit amet consectetur, adipisicing elit."
+    },
+    {
+        "question": "Où se trouve votre siège ? ",
+        "response": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aspernatur, sequi aperiam quae corporis enim nam reprehenderit qui, fugiat fuga et perferendis illum quos error quia.Lorem ipsum dolor sit amet consectetur, adipisicing elit."
+    },
+    {
+        "question": "Comment faire si mon payement refuse ? ",
+        "response": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aspernatur, sequi aperiam quae corporis enim nam reprehenderit qui, fugiat fuga et perferendis illum quos error quia.Lorem ipsum dolor sit amet consectetur, adipisicing elit."
+    },
+    {
+        "question": "Quelq'un d'un autre pays peut-il faire une commande ? ",
+        "response": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aspernatur, sequi aperiam quae corporis enim nam reprehenderit qui, fugiat fuga et perferendis illum quos error quia.Lorem ipsum dolor sit amet consectetur, adipisicing elit."
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "name": "div mbag",
+        "photo": "images/avis/avis1.png",
+        "paragraph": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi asperiores dolor aspernatur sapiente, odit ut.",
+        "stars": 5,
+        "facebook": "https://facebook.com/divmba",
+        "instagram": "https://instagram.com/divmba",
+        "twitter": "https://twitter.com/divmba",
+        "pinterest": "https://pinterest.com/divmba"
+    },
+    {
+        "name": "heureux miri",
+        "photo": "images/avis/avis2.png",
+        "paragraph": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi asperiores dolor aspernatur sapiente, odit ut.",
+        "stars": 4.5,
+        "facebook": "https://facebook.com/heureuxmiri",
+        "instagram": "https://instagram.com/heureuxmiri",
+        "twitter": "https://twitter.com/heureuxmiri",
+        "pinterest": "https://pinterest.com/heureuxmiri"
+    },
+    {
+        "name": "Jean nérée",
+        "photo": "images/avis/avis3.png",
+        "paragraph": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi asperiores dolor aspernatur sapiente, odit ut.",
+        "stars": 4,
+        "facebook": "https://facebook.com/Jeannérée",
+        "instagram": "https://instagram.com/Jeannérée",
+        "twitter": "https://twitter.com/Jeannérée",
+        "pinterest": "https://pinterest.com/Jeannérée"
+    },
+    {
+        "name": "Dieudo",
+        "photo": "images/avis/avis4.png",
+        "paragraph": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi asperiores dolor aspernatur sapiente, odit ut.",
+        "stars": 5,
+        "facebook": "https://facebook.com/Dieudo",
+        "instagram": "https://instagram.com/Dieudo",
+        "twitter": "https://twitter.com/Dieudo",
+        "pinterest": "https://pinterest.com/Dieudo"
+    },
+    {
+        "name": "Basimise",
+        "photo": "images/avis/avis5.png",
+        "paragraph": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi asperiores dolor aspernatur sapiente, odit ut.",
+        "stars": 4.5,
+        "facebook": "https://facebook.com/Basimise",
+        "instagram": "https://instagram.com/Basimise",
+        "twitter": "https://twitter.com/Basimise",
+        "pinterest": "https://pinterest.com/Basimise"
+    },
+    {
+        "name": "Heri M",
+        "photo": "images/avis/avis6.png",
+        "paragraph": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi asperiores dolor aspernatur sapiente, odit ut.",
+        "stars": 5,
+        "facebook": "https://facebook.com/HeriM",
+        "instagram": "https://instagram.com/HeriM",
+        "twitter": "https://twitter.com/HeriM",
+        "pinterest": "https://pinterest.com/HeriM"
+    },
+    {
+        "name": "Meris M",
+        "photo": "images/avis/avis7.png",
+        "paragraph": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi asperiores dolor aspernatur sapiente, odit ut.",
+        "stars": 5,
+        "facebook": "https://facebook.com/MerisM",
+        "instagram": "https://instagram.com/MerisM",
+        "twitter": "https://twitter.com/MerisM",
+        "pinterest": "https://pinterest.com/MerisM"
+    }
+]

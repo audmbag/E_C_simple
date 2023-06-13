@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "image": "images/blog/1.jpg",
+        "title": "Le mannequinage",
+        "content": "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid amet aut ad delectus nulla dolores ex, pariatur ipsam obcaecati deleniti ab incidunt commodi provident praesentium reiciendis adipisci quas. Eaque, odit?</p><br><p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Modi numquam ut accusantium quos.</p><br><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure enim laboriosam, provident molestiae voluptatibus modi. Minima, reiciendis nesciunt reprehenderit iusto nulla adipisci laborum odio earum repellendus, dicta, inventore obcaecati aliquid.</p>",
+        "source": "fashion.com",
+        "likes": 34,
+        "created_at": "2 fev 2023",
+        "author": "aud mbag"
+    },
+    {
+        "id": 2,
+        "image": "images/blog/1.webp",
+        "title": "Les nouvelles tendances",
+        "content": "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid amet aut ad delectus nulla dolores ex, pariatur ipsam obcaecati deleniti ab incidunt commodi provident praesentium reiciendis adipisci quas. Eaque, odit?</p><br><p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Modi numquam ut accusantium quos.</p><br><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure enim laboriosam, provident molestiae voluptatibus modi. Minima, reiciendis nesciunt reprehenderit iusto nulla adipisci laborum odio earum repellendus, dicta, inventore obcaecati aliquid.</p>",
+        "source": "fashion.com",
+        "likes": 12,
+        "created_at": "4 Mars 2023",
+        "author": "Merice M"
+    },
+    {
+        "id": 3,
+        "image": "images/blog/2.jpg",
+        "title": "Blouson en cuir",
+        "content": "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid amet aut ad delectus nulla dolores ex, pariatur ipsam obcaecati deleniti ab incidunt commodi provident praesentium reiciendis adipisci quas. Eaque, odit?</p><br><p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Modi numquam ut accusantium quos.</p><br><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure enim laboriosam, provident molestiae voluptatibus modi. Minima, reiciendis nesciunt reprehenderit iusto nulla adipisci laborum odio earum repellendus, dicta, inventore obcaecati aliquid.</p>",
+        "source": "fashion.com",
+        "likes": 14,
+        "created_at": "5 Mars 2023",
+        "author": "Merice M"
+    },
+    {
+        "id": 4,
+        "image": "images/blog/2.webp",
+        "title": "Emergence féminine dans la mode",
+        "content": "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid amet aut ad delectus nulla dolores ex, pariatur ipsam obcaecati deleniti ab incidunt commodi provident praesentium reiciendis adipisci quas. Eaque, odit?</p><br><p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Modi numquam ut accusantium quos.</p><br><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure enim laboriosam, provident molestiae voluptatibus modi. Minima, reiciendis nesciunt reprehenderit iusto nulla adipisci laborum odio earum repellendus, dicta, inventore obcaecati aliquid.</p>",
+        "source": "fashion.com",
+        "likes": 54,
+        "created_at": "6 Mars 2023",
+        "author": "Jean Nérée"
+    },
+    {
+        "id": 5,
+        "image": "images/blog/3.jpg",
+        "title": "Tour de la mode !!!",
+        "content": "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid amet aut ad delectus nulla dolores ex, pariatur ipsam obcaecati deleniti ab incidunt commodi provident praesentium reiciendis adipisci quas. Eaque, odit?</p><br><p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Modi numquam ut accusantium quos.</p><br><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure enim laboriosam, provident molestiae voluptatibus modi. Minima, reiciendis nesciunt reprehenderit iusto nulla adipisci laborum odio earum repellendus, dicta, inventore obcaecati aliquid.</p>",
+        "source": "fashion.com",
+        "likes": 23,
+        "created_at": "6 Mars 2023",
+        "author": "Jean Nérée"
+    },
+    {
+        "id": 6,
+        "image": "images/blog/3.webp",
+        "title": "Les nouveaux Jogings",
+        "content": "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid amet aut ad delectus nulla dolores ex, pariatur ipsam obcaecati deleniti ab incidunt commodi provident praesentium reiciendis adipisci quas. Eaque, odit?</p><br><p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Modi numquam ut accusantium quos.</p><br><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure enim laboriosam, provident molestiae voluptatibus modi. Minima, reiciendis nesciunt reprehenderit iusto nulla adipisci laborum odio earum repellendus, dicta, inventore obcaecati aliquid.</p>",
+        "source": "fashion.com",
+        "likes": 67,
+        "created_at": "7 Mars 2023",
+        "author": "aud mbag"
+    },
+    {
+        "id": 7,
+        "image": "images/blog/4.jpg",
+        "title": "Les nouvelles tendances",
+        "content": "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid amet aut ad delectus nulla dolores ex, pariatur ipsam obcaecati deleniti ab incidunt commodi provident praesentium reiciendis adipisci quas. Eaque, odit?</p><br><p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Modi numquam ut accusantium quos.</p><br><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure enim laboriosam, provident molestiae voluptatibus modi. Minima, reiciendis nesciunt reprehenderit iusto nulla adipisci laborum odio earum repellendus, dicta, inventore obcaecati aliquid.</p>",
+        "source": "fashion.com",
+        "likes": 12,
+        "created_at": "8 Mars 2023",
+        "author": "Merice M"
+    },
+    {
+        "id": 8,
+        "image": "images/blog/4.webp",
+        "title": "Des mannequins jumelles !!!",
+        "content": "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid amet aut ad delectus nulla dolores ex, pariatur ipsam obcaecati deleniti ab incidunt commodi provident praesentium reiciendis adipisci quas. Eaque, odit?</p><br><p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Modi numquam ut accusantium quos.</p><br><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure enim laboriosam, provident molestiae voluptatibus modi. Minima, reiciendis nesciunt reprehenderit iusto nulla adipisci laborum odio earum repellendus, dicta, inventore obcaecati aliquid.</p>",
+        "source": "fashion.com",
+        "likes": 34,
+        "created_at": "8 Mars 2023",
+        "author": "Heureux M"
+    },
+    {
+        "id": 9,
+        "image": "images/blog/5.jpg",
+        "title": "Tendances blouson-Chaussure",
+        "content": "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid amet aut ad delectus nulla dolores ex, pariatur ipsam obcaecati deleniti ab incidunt commodi provident praesentium reiciendis adipisci quas. Eaque, odit?</p><br><p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Modi numquam ut accusantium quos.</p><br><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure enim laboriosam, provident molestiae voluptatibus modi. Minima, reiciendis nesciunt reprehenderit iusto nulla adipisci laborum odio earum repellendus, dicta, inventore obcaecati aliquid.</p>",
+        "source": "fashion.com",
+        "likes": 18,
+        "created_at": "9 Mars 2023",
+        "author": "Dieudo Cool"
+    },
+    {
+        "id": 10,
+        "image": "images/blog/6.jpg",
+        "title": "Retour en arrière sur la mode",
+        "content": "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid amet aut ad delectus nulla dolores ex, pariatur ipsam obcaecati deleniti ab incidunt commodi provident praesentium reiciendis adipisci quas. Eaque, odit?</p><br><p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Modi numquam ut accusantium quos.</p><br><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure enim laboriosam, provident molestiae voluptatibus modi. Minima, reiciendis nesciunt reprehenderit iusto nulla adipisci laborum odio earum repellendus, dicta, inventore obcaecati aliquid.</p>",
+        "source": "fashion.com",
+        "likes": 34,
+        "created_at": "9 Mars 2023",
+        "author": "Dieudo Cool"
+    },
+    {
+        "id": 11,
+        "image": "images/blog/7.jpg",
+        "title": "Tendances comme-un-homme",
+        "content": "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid amet aut ad delectus nulla dolores ex, pariatur ipsam obcaecati deleniti ab incidunt commodi provident praesentium reiciendis adipisci quas. Eaque, odit?</p><br><p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Modi numquam ut accusantium quos.</p><br><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure enim laboriosam, provident molestiae voluptatibus modi. Minima, reiciendis nesciunt reprehenderit iusto nulla adipisci laborum odio earum repellendus, dicta, inventore obcaecati aliquid.</p>",
+        "source": "fashion.com",
+        "likes": 45,
+        "created_at": "12 Mai 2023",
+        "author": "Heureux M"
+    },
+    {
+        "id": 12,
+        "image": "images/blog/8.jpg",
+        "title": "Des robes class pas chères !!!",
+        "content": "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid amet aut ad delectus nulla dolores ex, pariatur ipsam obcaecati deleniti ab incidunt commodi provident praesentium reiciendis adipisci quas. Eaque, odit?</p><br><p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Modi numquam ut accusantium quos.</p><br><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure enim laboriosam, provident molestiae voluptatibus modi. Minima, reiciendis nesciunt reprehenderit iusto nulla adipisci laborum odio earum repellendus, dicta, inventore obcaecati aliquid.</p>",
+        "source": "fashion.com",
+        "likes": 76,
+        "created_at": "11 juin 2023",
+        "author": "aud mbag"
+    }
+]

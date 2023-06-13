@@ -1,0 +1,83 @@
+[
+    {
+        "id": 1,
+        "title": "pantoufles de qualité",
+        "old_price": 30,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium, dicta.",
+        "image": "images/chaussures/reduction1.jpg",
+        "price": 20,
+        "stars": 4.5
+    },
+    {
+        "id": 2,
+        "title": "pantoufles de qualité",
+        "old_price": 30,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium, dicta.",
+        "image": "images/chaussures/reduction2.jpg",
+        "price": 15,
+        "stars": 4.0
+    },
+    {
+        "id": 3,
+        "title": "pantoufles de qualité",
+        "old_price": 30,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium, dicta.",
+        "image": "images/chaussures/reduction3.jpg",
+        "price": 25,
+        "stars": 5
+    },
+    {
+        "id": 4,
+        "title": "pantoufles de qualité",
+        "old_price": 30,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium, dicta.",
+        "image": "images/chaussures/reduction4.jpg",
+        "price": 18,
+        "stars": 4.5
+    },
+    {
+        "id": 5,
+        "title": "pantoufles de qualité",
+        "old_price": 30,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium, dicta.",
+        "image": "images/chaussures/reduction5.jpg",
+        "price": 20,
+        "stars": 5
+    },
+    {
+        "id": 6,
+        "title": "pantoufles de qualité",
+        "old_price": 30,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium, dicta.",
+        "image": "images/chaussures/reduction6.jpg",
+        "price": 20,
+        "stars": 4.5
+    },
+    {
+        "id": 7,
+        "title": "pantoufles de qualité",
+        "old_price": 30,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium, dicta.",
+        "image": "images/chaussures/reduction7.png",
+        "price": 28,
+        "stars": 5
+    },
+    {
+        "id": 8,
+        "title": "pantoufles de qualité",
+        "old_price": 30,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium, dicta.",
+        "image": "images/chaussures/reduction8.jpg",
+        "price": 18,
+        "stars": 4.5
+    },
+    {
+        "id": 9,
+        "title": "pantoufles de qualité",
+        "old_price": 30,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium, dicta.",
+        "image": "images/chaussures/reduction9.jpg",
+        "price": 20,
+        "stars": 5
+    }
+]

@@ -1,4 +1,8 @@
+import '../src/App.js'
+import Layout from '../src/Layouts.js';
 
+Layout.setHeader()
+Layout.setFooter()
 
 let inputs = document.querySelectorAll('form div input');
 

@@ -1,0 +1,46 @@
+[
+    {
+        "id": 16,
+        "title": "Joging",
+        "image1": "images/chaussures/du_jour (1).png",
+        "image2": "images/chaussures/du_jour (2).png",
+        "image3": "images/chaussures/im1 (2).png",
+        "image4": "images/chaussures/im1 (3).png",
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Placeat excepturi possimus error fuga corporis at!",
+        "price": 15,
+        "old_price": 20
+    },
+    {
+        "id": 17,
+        "title": "Joging",
+        "image1": "images/chaussures/du_jour (3).png",
+        "image2": "images/chaussures/du_jour (4).png",
+        "image3": "images/chaussures/im1 (4).png",
+        "image4": "images/chaussures/im1 (5).png",
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Placeat excepturi possimus error fuga corporis at!",
+        "price": 15,
+        "old_price": 20
+    },
+    {
+        "id": 18,
+        "title": "Joging",
+        "image1": "images/chaussures/du_jour (5).png",
+        "image2": "images/chaussures/du_jour (6).png",
+        "image3": "images/chaussures/im1 (6).png",
+        "image4": "images/chaussures/im1 (7).png",
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Placeat excepturi possimus error fuga corporis at!",
+        "price": 15,
+        "old_price": 20
+    },
+    {
+        "id": 19,
+        "title": "Joging",
+        "image1": "images/chaussures/du_jour (7).png",
+        "image2": "images/chaussures/du_jour (8).png",
+        "image3": "images/chaussures/im1 (8).png",
+        "image4": "images/chaussures/im1 (1).png",
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Placeat excepturi possimus error fuga corporis at!",
+        "price": 15,
+        "old_price": 20
+    }
+]

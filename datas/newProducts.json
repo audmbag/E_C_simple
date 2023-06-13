@@ -1,0 +1,62 @@
+[
+    {
+        "id": 10,
+        "title": "Air-Max",
+        "image": "images/chaussures/nouvaux1.png",
+        "imagehover": "images/chaussures/nouvaux1_hover.png",
+        "price": 20,
+        "old_price": 25,
+        "stars": 5,
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ea, odit vitae saepe doloremque voluptatem iste. Unde inventore neque, dolores sit libero ea cum quod minus possimus sint explicabo, suscipit sunt."
+    },
+    {
+        "id": 11,
+        "title": "Jordan",
+        "image": "images/chaussures/nouvaux2.png",
+        "imagehover": "images/chaussures/nouvaux2_hover.png",
+        "price": 20,
+        "old_price": 30,
+        "stars": 5,
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ea, odit vitae saepe doloremque voluptatem iste. Unde inventore neque, dolores sit libero ea cum quod minus possimus sint explicabo, suscipit sunt."
+    },
+    {
+        "id": 12,
+        "title": "Air Jordan",
+        "image": "images/chaussures/nouvaux3.png",
+        "imagehover": "images/chaussures/nouvaux3_hover.png",
+        "price": 20,
+        "old_price": 30,
+        "stars": 4.5,
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ea, odit vitae saepe doloremque voluptatem iste. Unde inventore neque, dolores sit libero ea cum quod minus possimus sint explicabo, suscipit sunt."
+    },
+    {
+        "id": 13,
+        "title": "Air Jordan",
+        "image": "images/chaussures/nouvaux4.png",
+        "imagehover": "images/chaussures/nouvaux4_hover.png",
+        "price": 30,
+        "old_price": 35,
+        "stars": 4.5,
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ea, odit vitae saepe doloremque voluptatem iste. Unde inventore neque, dolores sit libero ea cum quod minus possimus sint explicabo, suscipit sunt."
+    },
+    {
+        "id": 14,
+        "title": "Sneakers",
+        "image": "images/chaussures/nouvaux5.png",
+        "imagehover": "images/chaussures/nouvaux5_hover.png",
+        "price": 25,
+        "old_price": 35,
+        "stars": 5,
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ea, odit vitae saepe doloremque voluptatem iste. Unde inventore neque, dolores sit libero ea cum quod minus possimus sint explicabo, suscipit sunt."
+    },
+    {
+        "id": 15,
+        "title": "Air-Max",
+        "image": "images/chaussures/nouvaux6.png",
+        "imagehover": "images/chaussures/nouvaux6_hover.png",
+        "price": 27,
+        "old_price": 35,
+        "stars": 4.5,
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ea, odit vitae saepe doloremque voluptatem iste. Unde inventore neque, dolores sit libero ea cum quod minus possimus sint explicabo, suscipit sunt."
+    }
+]
